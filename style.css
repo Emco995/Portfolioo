@@ -337,6 +337,28 @@ section .title::after{
     margin-right: 10px;
 }
 
+.fa-html5 {
+    color: orangered;
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+.fa-js {
+    color: rgb(255, 238, 0);
+}
+
+.fa-css3 {
+    color: rgb(0, 110, 255);
+}
+
+.fa-bootstrap {
+    color: rgb(55, 11, 138);
+}
+
+.fa-node-js {
+    color: green;
+}
+
 .description {
     padding-top: 2em;
     text-align: center;
