@@ -631,7 +631,7 @@ section .title::after{
 }
 
 .teams .title::after{
-    content: "project experience";
+    content: "projects";
 }
 
 .projects-boxx {
@@ -660,6 +660,7 @@ section .title::after{
 }
 
 .boxv {
+    height: 400px;
     padding-top: 20px;
     padding-bottom: 20px;
     padding-left: 40px;
