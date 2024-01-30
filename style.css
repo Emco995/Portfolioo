@@ -408,7 +408,7 @@ section .title::after {
 .express {
     padding-top: 5px;
     width: 25px;
-    height: 30px;
+    height: 20px;
 }
 
 
@@ -420,7 +420,7 @@ section .title::after {
 
 .mongo {
     padding-top: 5px;
-    width: 25px;
+    width: 15px;
     height: 30px;
 }
 
@@ -1233,3 +1233,4 @@ footer span a:hover {
         line-height: 38px;
     }
 }
+
